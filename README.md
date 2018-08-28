@@ -14,16 +14,16 @@ Here is my first C++ game that I found in my archives and I decided to share it 
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/images/menu.PNG" />
+      <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/screenshots/menu.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/images/game.PNG" />
+      <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/screenshots/game.PNG" />
     </td>
     <td>
-     <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/images/edition.PNG" />
+     <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/screenshots/edition.PNG" />
     </td>
     <td>
-      <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/images/media.PNG" />
+      <img src="https://github.com/ndongmo/Mario-Like-Game/blob/master/screenshots/media.PNG" />
     </td>
   </tr>
  </table>
