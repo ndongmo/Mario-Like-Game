@@ -9,4 +9,6 @@ Here is my first C++ game that I found in my archives and I decided to share it 
 - Possibility to play with Joystick or Keyboard
 - and it is Mario :heart_eyes:
 
-## Acknoledgement
+## Acknowledgments
+
+- Soundtrack : [Eric Skiff](https://soundcloud.com/eric-skiff)
