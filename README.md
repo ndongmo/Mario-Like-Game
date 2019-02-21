@@ -1,6 +1,8 @@
 # Mario game in C++
 
-Here is my first C++ game that I found in my archives and I decided to share it with all game fans passionate about programming. It is a 2D platformer game using SDL and Fmod libraries.
+Here is my first C++ game that I found in my archives and I decided to share it with all game fans passionate about programming. It is a 2D platformer game using SDL and Fmod libraries. You can have a look at the video gameplay on my [youtube channel](https://youtu.be/iYIdbkTRREM).
+
+[![Gameplay video on youtube](https://j.gifs.com/mOwXWG.gif)](https://youtu.be/iYIdbkTRREM)
 
 ## Features
 
